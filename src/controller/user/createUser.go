@@ -2,7 +2,7 @@ package controller
 
 import (
 	"fmt"
-	"teste/src/configuration/rest_err/validation"
+	"teste/src/configuration/validation"
 	"teste/src/controller/user/model/request"
 
 	"github.com/gin-gonic/gin"
